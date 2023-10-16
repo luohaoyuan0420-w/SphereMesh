@@ -11,4 +11,4 @@ It is believed that spherical shell stuffing can increase the strength of mechan
 To run this program one has to first install Mathematica or Wolfram Kernel and then UGNX. The tested versions are 12.0 for Mathematica or Wolfram Kernel and 10.0 for UGNX. Execute the binary "SphereMesh1.0.dll" in UGNX by shortcut "Ctrl+U". The format of control points given in the TXT file is {x, y, z, r_out, r_in, n_hole, r_hole, d_support}, and the TXT file must contain at least two control points. "r" represents radius and "d" represents diameter. One line for one point and columns are separated by a single space. 
 
 
-本科的时候做的一个没啥用的小项目。UGNX的源代码似乎已经找不到了。具体使用方法参见《SpherelMesh1.0使用说明.pdf》。
+本科的时候做的一个小项目。UGNX的源代码似乎已经找不到了。具体使用方法参见《SpherelMesh1.0使用说明.pdf》。
